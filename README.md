@@ -3,7 +3,7 @@
 This is the Circuits Today official Repository for AVR and Arduino based micro controllers.
 
 Below are the list and Details of each mini projects.
-##ATtiny13 Software UART Tx
+##ATtiny13 Software UART Tx##
 This project is inspired by the Arduino Software serial Library. It provides UART message Transmission Functionality to the ATtiny13. This is specially helpful if you are supposed to debug your ATtiny13 Project. It is mainly used to put up break points and register status so that user gets a hint of what is going inside of the microccontroller.
 
  ##ATtiny13 IR Remote [NEC]
